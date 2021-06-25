@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://hemanthyarlagadda.github.io/sitemap/sitemap-index.xml
+Host: https://hemanthyarlagadda.github.io
